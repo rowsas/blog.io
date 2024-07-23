@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/blog.io/static/css/main.340a20d2.css",
+    "main.js": "/blog.io/static/js/main.12b81b83.js",
+    "static/js/453.ede2c593.chunk.js": "/blog.io/static/js/453.ede2c593.chunk.js",
+    "static/media/javascri.png": "/blog.io/static/media/javascri.53599a837a711e5d9826.png",
+    "static/media/Data Structures.png": "/blog.io/static/media/Data Structures.741d31925e95abf1f0d9.png",
+    "static/media/What-is-an-Algorithm-2.jpg": "/blog.io/static/media/What-is-an-Algorithm-2.a0fb03442f007f612ca8.jpg",
+    "index.html": "/blog.io/index.html",
+    "main.340a20d2.css.map": "/blog.io/static/css/main.340a20d2.css.map",
+    "main.12b81b83.js.map": "/blog.io/static/js/main.12b81b83.js.map",
+    "453.ede2c593.chunk.js.map": "/blog.io/static/js/453.ede2c593.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.340a20d2.css",
+    "static/js/main.12b81b83.js"
+  ]
+}
